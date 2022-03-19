@@ -1,0 +1,39 @@
+
+Analysis of Kickstarter Challenge Data
+
+Outcomes Based on Creation Date:
+
+-Theater Plays were more successful in their campaigns than Musicals.
+
+-The Creation Date had no direct bearing on the number of backers for a given theater campaign.
+
+-Both successful and failed campaigns increased in years 2011, 2012 and 2013.
+  
+-Further both at least doubled in years 2014 and 2015 where it reached its peak
+during the period between 2009-2017.
+
+-All of the increases in successes and failures started in an upward trajectory during the second quarter of those years.  Although many factors may contribute to this, it is my assumption that the following may include but are not limited to having led to the increases in Q2:
+	-Christmas/Holiday debts get paid off.
+	-Year End bonuses may allow for extra donation funding and contributions.
+	-Tax returns also allow for extra income.  In certain cases contributions may allow
+	 for a tax credit.
+
+
+
+
+Outcomes Based on Goals:
+
+-There was no direct correlation between the Goals and Actual Pledged amounts.	
+
+-There length of the campaign was not tied to the eventual outcome in some cases.
+
+-Goals were much higher compared to actual contributions.  This pattern was shared as compared to other entertainment venues (i.e. the Film industry).  Although the actual contribution amounts were much lower in the Theater sector as compared to the Film sector.
+
+-The percentage failed actually surpassed successes for Goal amounts between $15000.00 and $34999.00; and then again over $44999.00.
+
+
+
+Limitations of Dataset:
+
+-The data does not explain why there was such an increase in contributions and failures in years 2014 and 2015.  What was the catalyst that led to the increase of contributions?  Did Theater become popular in those years?  If so, why?  More research and/or data is needed.
+
